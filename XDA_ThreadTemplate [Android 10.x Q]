@@ -1,4 +1,4 @@
-Thread Title - [ROM][10.0.0_r2] AospExtended ROM V7.0 [ALPHA]
+Thread Title - [ROM][10.0.0_r20] AospExtended ROM V7.0 [ALPHA]
 
 
 [CENTER][img]http://i.imgur.com/ER7PzVx.png[/img]
@@ -20,14 +20,14 @@ Read the whole OP! Be respectful to each other and don't ask for ETAs, it's cons
 
 [img]http://i.imgur.com/KDVygxh.png[/img]
 
-[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP based ROM which provides stock UI/UX experience with useful customizations. Being based on AOSP it provides a smooth experience. We have added useful customizations from various other open source projects and have tried to keep our things simple. A ROM by a user, for a user. #BeExtended[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Black"]AOSP Extended is an AOSP based ROM which provides stock UI/UX experience with useful customizations. Being based on AOSP it provides a smooth experience. We have added useful customizations from various other open-source projects and have tried to keep our things simple. A ROM by a user, for a user. #BeExtended[/COLOR][/SIZE][/B]
 
 
 
 [img]http://i.imgur.com/Np7jfnY.png[/img]
 
 
-[B][SIZE="4"]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are constantly trying to update the list. Our aim is not to provide all the features available on earth. Our aim is to add important features that we think should be here and also what you think. For the addition of more tweaks or features, head on to our Telegram community and post the list of features that you want! Features with commits will be more helpful![/SIZE][/B]
+[B][SIZE="4"]#ExtendYourDevice Here are the Extensions! on top of AOSP! We are constantly trying to update the list. Our aim is not to provide all the features available on earth. We aim to add important features that we think should be here and also what you think. For the addition of more tweaks or features, head on to our Telegram community and post the list of features that you want! Features with commits will be more helpful![/SIZE][/B]
 
 
 
@@ -55,7 +55,7 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 [B][SIZE="4"]Want to try this awesomeness?[/SIZE][/B]
 
 [CODE][b]-Download the ROM and GApps of your choice
--Backup each and every partition from TWRP Recovery
+-Backup each partition from TWRP Recovery
 -Make a full wipe (system, data, cache, dalvik)
 -Flash AEX Package
 -Install GAPPS package
@@ -76,7 +76,7 @@ Download ROM, GApps here for your device![/COLOR][/U][/B][/SIZE]
 - Merge September security patch (10.0.0_r2)
 - Bug fixes and performance improvements
 
-Clean flash is always recommended​. Bug reports are not appreciated if not clean flashed. 
+A clean flash is always recommended​. Bug reports are not appreciated if not clean flashed. 
 Remove any kind of security PINs/Password and Fingerprints before flashing this build.
 
 
@@ -102,7 +102,7 @@ Do you want to translate to your language? Visit our [URL="http://translate.aosp
 [img]http://i.imgur.com/wxV7wmi.png[/img]
 
 
-[B][SIZE="4"][COLOR="Black"] All sort of contributions are welcomed. You can post your walls in our Telegram community. Minimum res we require is W: 1152px | H: 2048px. We don't want our users to fight with each other so we humbly request you to be respectful to each other. We are not earning anything by sharing this ROM. Always read the full OP. Don't Quote the whole OP. Join our channel and community. #StayHappy #ExtendYourDevice[/COLOR][/SIZE][/B]
+[B][SIZE="4"][COLOR="Black"] All sort of contributions are welcomed. You can post your walls in our Telegram community. Minimum res we require is W: 1152px | H: 2048px. We don't want our users to fight with each other so we humbly request you to be respectful to each other. We are not earning anything by sharing this ROM. Always read the full OP. Don't quote the whole OP. Join our channel and community. #StayHappy #ExtendYourDevice[/COLOR][/SIZE][/B]
 
 
 [img]http://i.imgur.com/GDeu02t.png[/img]
@@ -143,10 +143,10 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 ->Rom is based on AOSP. Verison is updated monthly.
 
 -[COLOR="red"]Why no "Incremental/Delta updates" Support?[/COLOR]
-->Actually the updates we provide monthly are heavily changed and modified than the previous builds. New stuff is merged and added. So we don't provide incremental updates and recommend a clean flash.
+-> The updates we provide monthly are heavily changed and modified than the previous builds. New stuff is merged and added. So we don't provide incremental updates and recommend a clean flash.
  
  -[COLOR="Red"]Does this ROM Support Substratum?[/COLOR]
-->Google killed Substratum support in Pie. Therefore, its not available.
+->Google killed Substratum support in Pie. Therefore, it's not available.
   
 -[COLOR="Red"]Which Gapps are recommended?[/COLOR]
 ->OpenGapps
@@ -161,10 +161,10 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 ->We like Xposed but it messes up with the system so before giving any bug reports make sure you have Xposed uninstalled.
  
 -[COLOR="red"]When Will Be the Next Update?[/COLOR]
-->No ETAs, please. ROM Will be updated whenever the new build is ready by your maintainer. We generally provide monthly updates with latest security patches and new features.
+->No ETAs, please. ROM Will be updated whenever the new build is ready by your maintainer. We generally provide monthly updates with the latest security patches and new features.
     
 -[COLOR="red"]I am facing FCs, Bugs, Some feature is broken?[/COLOR]
-->Provide full info about your problem with logcat and the procedure to reproduce it.
+->Provide full info about your problem with the logcat and the procedure to reproduce it.
     
 ->How to take Logcats?
 ->[url]https://goo.gl/UcTM9[/url] and [url]https://goo.gl/J4CSEP[/url]
